@@ -35,9 +35,9 @@ Saya suka membangun halaman web yang **bersih, responsif, dan penuh makna**, ter
 
 ## 📫 Kontak
 
-- 📧 Email: akmal@example.com
-- 💼 LinkedIn: [linkedin.com/in/akmal](https://linkedin.com/in/akmal)
-- 🌐 Website Portofolio: [akmaldev.github.io](https://akmaldev.github.io)
+- 📧 Email: akmalsebastian89@gmail.com
+- 📞 Telp : 0895 6098 03131
+- 🌐 TikTok : [akmaldev.github.io](https://akmaldev.github.io)
 
 ---
 
